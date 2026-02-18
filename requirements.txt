@@ -1,0 +1,7 @@
+Django>=5.1
+mysql-connector-python
+dj-database-url
+gunicorn
+whitenoise
+Pillow
+requests
