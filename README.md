@@ -2,6 +2,11 @@
 
 [![Video Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1ndY1VxB38_ViIalxG4wTU1zAdaqKRfGD/view?t=7)
 
+## 🎥 Project Demo
+
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1ndY1VxB38_ViIalxG4wTU1zAdaqKRfGD/view?t=7)
+
+
 
 # 🎓 College ERP System
 
