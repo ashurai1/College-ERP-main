@@ -1,3 +1,8 @@
+## 📹 Demo Video
+
+[![Video Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1ndY1VxB38_ViIalxG4wTU1zAdaqKRfGD/view?t=7)
+
+
 # 🎓 College ERP System
 
 A professional, robust, and feature-rich **College Education Management System** built with Django. This system provides a comprehensive suite of tools for managing students, staff, courses, and academic operations with a premium **Corporate Deep Navy** user interface.
